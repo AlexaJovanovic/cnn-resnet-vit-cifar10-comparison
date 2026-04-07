@@ -1,0 +1,9 @@
+# Python
+.venv
+__pycache__
+
+# Data folder
+data/
+
+# Stored model weights
+trained_models/
